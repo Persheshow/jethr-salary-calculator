@@ -1,4 +1,4 @@
-# Calcolatore di Retribuzione Netta — Prototipo per Jet HR
+# Calcolatore di Retribuzione Netta
 
 Un'applicazione web interattiva per simulare la proiezione della retribuzione netta annuale e mensile di un lavoratore dipendente, partendo dalla Retribuzione Annua Lorda (RAL) e mostrando nel dettaglio tutte le trattenute fiscali e previdenziali.
 
