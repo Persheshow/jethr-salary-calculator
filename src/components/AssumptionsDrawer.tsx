@@ -15,7 +15,7 @@ export const AssumptionsDrawer: React.FC = () => {
                         Assunzioni di calcolo e semplificazioni adottate:
                     </span>
                     <span className="text-xs text-slate-500">
-                        Impiegato indeterminato - Milano - Anno fiscale corrente.
+                        Impiegato indeterminato - Milano - Anno fiscale corrente
                     </span>
                 </div>
                 <span className="text-xs text-slate-500 underline ml-2">
